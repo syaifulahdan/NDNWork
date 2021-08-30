@@ -8,16 +8,13 @@
    - exercise 3: <b>Secenario NDN-GRID </b>[[read] ](https://github.com/Telmat2015/NDNWork/tree/master/SecenarioNDN-Grid)
   
   <b>2.Create Secenario NDN-Caida-Topology </b>
-   
-    -  Exercise 1: <b>Simulation Grid 9 Node </b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]] (https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
+      - exercise 1: <b>Hyperbolic Routing Experiment</b> [[read] ](http://netwisdom.cs.memphis.edu/mini-ndn/)
+
+       
+  <b>4.Create Secenario NDN-Grid Topology</b>
+-  Exercise 1: <b>Simulation Grid 9 Node </b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]] (https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
    
    -  Exercise 2: <b>Simulation Grid 16 Node </b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid4x4.md) | [[discussion and source code]] (https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid2.cpp) | [[Output to LOG File]] (https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/LOG_Simple2.txt)
- 
-  
-    
-  <b>4.Create Secenario NDN-Grid Topology</b>
-   - exercise 1: <b>Hyperbolic Routing Experiment</b>[[read] ](http://netwisdom.cs.memphis.edu/mini-ndn/)
-
   
   <b>5.Create Secenario NDN-Inherent-5p5c</b>
   
