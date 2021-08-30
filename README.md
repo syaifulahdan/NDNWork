@@ -9,7 +9,7 @@
   
   <b>2.Create Secenario NDN-Caida-Topology </b>
   
-      - exercise 1: <b>Hyperbolic Routing Experiment</b> [[read] ](http://netwisdom.cs.memphis.edu/mini-ndn/)
+  - exercise 1: <b>Hyperbolic Routing Experiment</b> [[read] ](http://netwisdom.cs.memphis.edu/mini-ndn/)
 
        
   <b>3.Create Secenario NDN-Grid Topology</b>
