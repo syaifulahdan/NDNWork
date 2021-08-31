@@ -26,7 +26,7 @@
   
   <b>6.Create Secenario NDN-Inherent Topology </b>
   - source<b>Map</b>[[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/map_indo.png)
-  - Sourcecode <b>ndn-indonesia-inheren</b>[[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/ndn-indonesia-inheren.cc)
+  - Sourcecode <b>ndn-indonesia-inheren.cc</b>[[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/ndn-indonesia-inheren.cc)
   - Sourcecode <b>ndn-indonesia-inheren xml</b>[[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/ndn-indonesia-inheren.xml)
   - Sourcecode <b>topo-indonesia-inheren.txt</b>[[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/topo-indonesia-inheren.txt)
 
