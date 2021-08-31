@@ -33,7 +33,9 @@
  - Sourcecode <b>Indonesia Inheren Topology</b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent-5p5c/topo-indonesia-inheren.txt)
   
   
- <b>6.Secenarion NDN-Topo-Inheren-Multi Load Balancer</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-multi-Load-balancer/ndn-load-balancer-multi.cpp)
+ <b>6.NDN Load Balancer Topology Inherent</b>  
+ - <b>6a.Secenario Multi Load Balancer</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-multi-Load-balancer/ndn-load-balancer-multi.cpp)
+ - <b>6b.Secenario Multi Load Balancer</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-multi-Load-balancer/ndn-load-balancer-multi.cpp)
 
 
  <b>7.Secenario NDN-Inherent-Different-strategy (best-route, Client Control, NCC) & Different Interest</b>  
