@@ -24,7 +24,7 @@
   - Code L2 Tracer: <b>Inherent-rate-trace.txt </b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent-5p5c/ndn-tree-with-l2tracer-inherent.cc)
  - Sourcecode <b>Indonesia Inheren Topology</b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent-5p5c/topo-indonesia-inheren.txt)
   
- <b>6.Secenarion NDN-Topo-Inheren-Load Balancer</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-multi-Load-balancer/ndn-load-balancer-multi.cpp)
+ <b>6.Secenarion NDN-Topo-Inheren-Multi Load Balancer</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-multi-Load-balancer/ndn-load-balancer-multi.cpp)
 
       
   <b>3.Create Secenario NDN-Grid Topology</b>
