@@ -41,13 +41,15 @@
   - ndn-topo-palaparing-30p30c-broadcast.cpp [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Palaparing/ndn-topo-palaparing-30p30c-broadcast.cpp)
   
 
- 
+ <b>7.Running NFD on NDNSim </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/NFD/build-nfd.md)
+
+ <b>7.Running NLSR on NDNSim </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/NLSR/build-nlsr.md)
+    
+
+
   <b>6.Create Secenario NDN-Caida-Topology </b>
   
   - exercise 1: <b>Hyperbolic Routing Experiment</b> [[read] ](http://netwisdom.cs.memphis.edu/mini-ndn/)
-
-
-  
 
 
     
