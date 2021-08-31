@@ -19,7 +19,8 @@
   
   <b>5.Create Secenario NDN-Inherent-5p5c</b>
   - Raw Rate Trace 3: <b>Inherent-rate-trace.txt </b>[[read] ](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent-5p5c/inherent-rate-trace.txt) [[View]](https://raw.githubusercontent.com/syaifulahdan/NDNWork/master/SecenarioNDN-Inherent-5p5c/inherent-rate-trace.txt)
- 
+
+  - Code L2 Tracer 3: <b>Inherent-rate-trace.txt </b>[[view] ](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent-5p5c/ndn-tree-with-l2tracer-inherent.cc)
   
   <b>6.Create Secenario NDN-Inherent Topology </b>
   
