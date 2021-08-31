@@ -42,9 +42,8 @@
   - ndn-topo-palaparing-20p20c-bestroute.cpp [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Palaparing/ndn-topo-palaparing-20p20c-bestroute.cpp)
   - ndn-topo-palaparing-30p30c-broadcast.cpp [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Palaparing/ndn-topo-palaparing-30p30c-broadcast.cpp)
   
-  <b>8.Create Secenario NDN-Ring Topology</b>
-  
-  <b>9.Create Secenario NDN-Simple Topology</b>
+ 
+  <b>8.Create Secenario NDN-Simple Topology</b>
   -  Exercise 1: <b>Simulation Simple </b>[[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/Simulation-Simple.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/ndn-simple.cpp)
    
    -  Exercise 2: <b>Simulation Simple 6 Node </b>[[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/Simulation-Simple-6node.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/simulation-simple-6node.py) | [[Output Raw File]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/LOG_Simple2.txt?raw=true)
