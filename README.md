@@ -1,8 +1,7 @@
 ##### Tabel Of Content
 
    <b>1. NDN Installation and Example</b>
-   -  exercise 1: <b>Instalation NDNSIm </b>[[read] ](https://github.com/Telmat2015/NDNWork/tree/master/NDN-Installation) 
-      -  <b>Instalation NDNSIm </b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
+       -  <b>Instalation NDNSIm </b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
       -  <b>Runing NDNSim Example </b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md) 
       -  <b>Running Visual NDNSim Example</b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/3.%20Visuall%20Running%20NDNSim%20Example%20.md)
    
