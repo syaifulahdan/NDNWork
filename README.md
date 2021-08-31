@@ -1,4 +1,4 @@
-##### Tabel Of Content
+<b>Tabel Of Content</b>
 
    <b>1. NDN Installation and Example</b>
    
@@ -28,7 +28,7 @@
 
  <b>7.Secenario NDN-Inherent-Different-strategy (best-route, Client Control, NCC) & Different Interest</b> [[View] ](https://github.com/Telmat2015/NDNWork/tree/master/SecenarioNDN-Inherent-different-strategy)
  
-<b>A: File Configruation</b>  
+  <b>A: File Configruation</b>  
    -  Exercise 1: <b>ndn-multi-forwarding-strategy-different-interest-76252-5s</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76252-5s.cpp) 
    -  Exercise 2: <b>ndn-multi-forwarding-strategy-different-interest-76272-5s</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76272-5s.cpp) 
    -  Exercise 3: <b>ndn-multi-forwarding-strategy-different-interest-76573-5s </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76573-5s.cpp) 
