@@ -12,10 +12,12 @@
   -  Exercise 1: <b>Simulation Simple </b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/Simulation-Simple.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/ndn-simple.cpp)
    - Exercise 2: <b>Simulation Simple 6 Node </b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/Simulation-Simple-6node.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/simulation-simple-6node.py) | [[Output Raw File]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/LOG_Simple2.txt?raw=true)
    
+  <b>3.Create Secenario NDN-Grid Topology</b>
+   -  Exercise 1: <b>Simulation Grid 9 Node </b>[[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
+  -  Exercise 2: <b>Simulation Grid 16 Node </b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid4x4.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid2.cpp) | [[Output to LOG File]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/LOG_Simple2.txt)   
    
    
-   
-  <b>3.Create Secenario NDN-Inherent Topology </b>
+  <b>4.Create Secenario NDN-Inherent Topology </b>
   - <b>ndn-topo-Inheren-ver.1</b> [[view]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent/topo-indonesia-inheren.txt)
   - <b>Map Indonesia Inheren</b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/map_indo.png)
   - Sourcecode <b>ndn-indonesia-inheren.cc</b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/ndn-indonesia-inheren.cc)
@@ -25,7 +27,7 @@
 
 
 
-  <b>4.Create Secenario NDN-Inherent-5p5c</b>
+  <b>5.Create Secenario NDN-Inherent-5p5c</b>
   - Raw Rate Trace: <b>Inherent-rate-trace.txt </b> [[read]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent-5p5c/inherent-rate-trace.txt) [[View]](https://raw.githubusercontent.com/syaifulahdan/NDNWork/master/SecenarioNDN-Inherent-5p5c/inherent-rate-trace.txt)
   - Code L2 Tracer: <b>Inherent-rate-trace.txt </b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent-5p5c/ndn-tree-with-l2tracer-inherent.cc)
  - Sourcecode <b>Indonesia Inheren Topology</b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent-5p5c/topo-indonesia-inheren.txt)
@@ -48,9 +50,7 @@
    -  Exercise 9: <b>ndn-multi-forwarding-strategy-inherent-per-prefix</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix.cpp)
 
 
-  <b>3.Create Secenario NDN-Grid Topology</b>
-   -  Exercise 1: <b>Simulation Grid 9 Node </b>[[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
-  -  Exercise 2: <b>Simulation Grid 16 Node </b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid4x4.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid2.cpp) | [[Output to LOG File]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/LOG_Simple2.txt)
+
  
 
 
