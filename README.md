@@ -26,12 +26,17 @@
   
  <b>6.Secenarion NDN-Topo-Inheren-Multi Load Balancer</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-multi-Load-balancer/ndn-load-balancer-multi.cpp)
 
-      
+ <b>7.Secenario NDN-Inherent-Different-strategy (best-route, Client Control, NCC) & Different Interest</b> [[View] ](https://github.com/Telmat2015/NDNWork/tree/master/SecenarioNDN-Inherent-different-strategy)
+   -  Exercise 1: <b>ndn-multi-forwarding-strategy-different-interest-76252-5s</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76252-5s.cpp) 
+   -  Exercise 2: <b>ndn-multi-forwarding-strategy-different-interest-76272-5s</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76272-5s.cpp) 
+   -  Exercise 3: <b>ndn-multi-forwarding-strategy-different-interest-76573-5s </b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76573-5s.cpp) 
+   -  Exercise 4: <b>ndn-multi-forwarding-strategy-inherent-per-prefix-1000 Interest</b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-1000.cpp)
+   -  Exercise 5: <b>ndn-multi-forwarding-strategy-inherent-per-prefix-500</b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-500.cpp)
+
   <b>3.Create Secenario NDN-Grid Topology</b>
    -  Exercise 1: <b>Simulation Grid 9 Node </b>[[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
   -  Exercise 2: <b>Simulation Grid 16 Node </b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid4x4.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid2.cpp) | [[Output to LOG File]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/LOG_Simple2.txt)
-     
-     
+ 
 
 
   
