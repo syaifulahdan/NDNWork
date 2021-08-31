@@ -48,8 +48,12 @@
 -  <b>Exercise 3 : </b>ndn-multi-forwarding-strategy-different-interest-76573-5s
    -  Exercise 3a: Configuration <b>ndn-multi-forwarding-strategy-different-interest-76573-5s </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76573-5s.cpp)
    -  Exercise 3b:  L2RateTracer <b>ndn-multi-forwarding-strategy-different-interest-76573-5s </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/strategy-different-interest-76573-5s.txt)
-    
--  Exercise 4: Configuration <b>ndn-multi-forwarding-strategy-inherent-per-prefix-1000 Interest</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-1000.cpp)
+
+-  <b>Exercise 4 : </b>ndn-multi-forwarding-strategy-inherent-per-prefix-1000 Interest
+   -  Exercise 4a: Configuration <b>ndn-multi-forwarding-strategy-inherent-per-prefix-1000 Interest</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-1000.cpp)
+   -  Exercise 4b: L2RateTracer <b>ndn-multi-forwarding-strategy-inherent-per-prefix-1000 Interest</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/different-strategy-bestroute-5s.txt)
+
+
 -  Exercise 5: Configuration <b>ndn-multi-forwarding-strategy-inherent-per-prefix-500</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-500.cpp)
 
 -  <b>Exercise 6 : </b>ndn-multi-forwarding-strategy-inherent-per-prefix-ClientControl
