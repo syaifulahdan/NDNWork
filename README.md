@@ -27,7 +27,9 @@
  <b>6.Secenarion NDN-Topo-Inheren-Multi Load Balancer</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-multi-Load-balancer/ndn-load-balancer-multi.cpp)
 
  <b>7.Secenario NDN-Inherent-Different-strategy (best-route, Client Control, NCC) & Different Interest</b> [[View] ](https://github.com/Telmat2015/NDNWork/tree/master/SecenarioNDN-Inherent-different-strategy)
-    -  Exercise A: <b>File Configruation</b>  
+ 
+   -  Exercise A: <b>File Configruation</b>  
+   
    -  Exercise 1: <b>ndn-multi-forwarding-strategy-different-interest-76252-5s</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76252-5s.cpp) 
    -  Exercise 2: <b>ndn-multi-forwarding-strategy-different-interest-76272-5s</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76272-5s.cpp) 
    -  Exercise 3: <b>ndn-multi-forwarding-strategy-different-interest-76573-5s </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76573-5s.cpp) 
