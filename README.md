@@ -63,17 +63,13 @@
     -  Exercise 6d: <b>Graphic </b> [[Download] ](https://github.com/Telmat2015/NDNWork/tree/master/SecenarioNDN-Inherent-different-strategy/grafik-strategy-client-control) | [[View] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/grafik-strategy-client-control/strategy-clientcontrol.png)
 
  
- -  Exercise 7: Configuration <b>ndn-multi-forwarding-strategy-inherent-per-prefix-differentstrategy</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-differentstrategy.cpp)
- -  Exercise 8: Configuration <b>ndn-multi-forwarding-strategy-inherent-per-prefix-each-node</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-each-node.cpp)
- -  Exercise 9: Configuration <b>ndn-multi-forwarding-strategy-inherent-per-prefix</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix.cpp)
-
-
-
- 
+ -  <b>Exercise 7: Configuration ndn-multi-forwarding-strategy-inherent-per-prefix-differentstrategy</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-differentstrategy.cpp)
+ -  <b>Exercise 8: Configuration ndn-multi-forwarding-strategy-inherent-per-prefix-each-node</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-each-node.cpp)
+ -  <b>Exercise 9: Configuration ndn-multi-forwarding-strategy-inherent-per-prefix</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix.cpp)
 
 
   
-  <b>5.Create Secenario NDN-Palaparing Topology</b>
+  <b>10.Create Secenario NDN-Palaparing Topology</b>
    - ndn-topo-palaparing-Ver.2 [[view]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-palaparing/topo-palaparingv2.txt)
   - ndn-topo-palaparing-15p30c-300int-cs100-bestroute.cpp [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Palaparing/ndn-topo-palaparing-15p30c-300int-cs100-bestroute.cpp)
   - ndn-topo-palaparing-15p30c-300int-cs100-broadcast.cpp  [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Palaparing/ndn-topo-palaparing-15p30c-300int-cs100-broadcast.cpp)
