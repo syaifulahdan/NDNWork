@@ -6,9 +6,13 @@
    -  <b>Runing NDNSim Example </b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md) 
    -  <b>Running Visual NDNSim Example</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/3.%20Visuall%20Running%20NDNSim%20Example%20.md)
    
+   
+   
    <b>2.Create Secenario NDN-Simple Topology</b>
   -  Exercise 1: <b>Simulation Simple </b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/Simulation-Simple.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/ndn-simple.cpp)
    - Exercise 2: <b>Simulation Simple 6 Node </b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/Simulation-Simple-6node.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/simulation-simple-6node.py) | [[Output Raw File]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/LOG_Simple2.txt?raw=true)
+   
+   
    
    
   <b>3.Create Secenario NDN-Inherent Topology </b>
@@ -19,12 +23,16 @@
   - Sourcecode <b>topo-indonesia-inheren.txt</b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/topo-indonesia-inheren.txt)
   - <b>topo-indonesia-inheren-final</b> [[view]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent/topology%20koordinat%20FINAL%20upload%233%20odp%20.pdf)
 
+
+
   <b>4.Create Secenario NDN-Inherent-5p5c</b>
   - Raw Rate Trace: <b>Inherent-rate-trace.txt </b> [[read]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent-5p5c/inherent-rate-trace.txt) [[View]](https://raw.githubusercontent.com/syaifulahdan/NDNWork/master/SecenarioNDN-Inherent-5p5c/inherent-rate-trace.txt)
   - Code L2 Tracer: <b>Inherent-rate-trace.txt </b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent-5p5c/ndn-tree-with-l2tracer-inherent.cc)
  - Sourcecode <b>Indonesia Inheren Topology</b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent-5p5c/topo-indonesia-inheren.txt)
   
+  
  <b>6.Secenarion NDN-Topo-Inheren-Multi Load Balancer</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-multi-Load-balancer/ndn-load-balancer-multi.cpp)
+
 
  <b>7.Secenario NDN-Inherent-Different-strategy (best-route, Client Control, NCC) & Different Interest</b> [[View] ](https://github.com/Telmat2015/NDNWork/tree/master/SecenarioNDN-Inherent-different-strategy)
  
