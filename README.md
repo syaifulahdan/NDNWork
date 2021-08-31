@@ -56,10 +56,10 @@
 
 -  Exercise 5: Configuration <b>ndn-multi-forwarding-strategy-inherent-per-prefix-500</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-500.cpp)
 
--  <b>Exercise 6 : </b>ndn-multi-forwarding-strategy-inherent-per-prefix-ClientControl
-   -  Exercise 6a: <b>Configuration </b>ndn-multi-forwarding-strategy-inherent-per-prefix-ClientControl [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-clientcontrol.cpp)
-   -  Exercise 6b: <b>L2RateTracer </b>ndn-multi-forwarding-strategy-inherent-per-prefix-ClientControl [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/strategy-clientcontrol-5s.txt)
-   -  Exercise 6c: <b>R GGPlot </b>ndn-multi-forwarding-strategy-inherent-per-prefix-ClientControl [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/grafik-strategy-client-control/different-strategy-bestroute3.R)
+-  <b>Exercise 6 : NDN-Multi-Forwarding-Strategy-Inherent-Per-Prefix-ClientControl</b>
+   -  Exercise 6a: <b>Configuration </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-clientcontrol.cpp)
+   -  Exercise 6b: <b>L2RateTracer </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/strategy-clientcontrol-5s.txt)
+   -  Exercise 6c: <b>R GGPlot </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/grafik-strategy-client-control/different-strategy-bestroute3.R)
  
  
  -  Exercise 7: Configuration <b>ndn-multi-forwarding-strategy-inherent-per-prefix-differentstrategy</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-differentstrategy.cpp)
