@@ -37,19 +37,19 @@
 
 
  <b>7.Secenario NDN-Inherent-Different-strategy (best-route, Client Control, NCC) & Different Interest</b>  
- -  <b>Exercise 1 : </b>ndn-multi-forwarding-strategy-different-interest-76252-5s 
-      -  Exercise 1a: Configuration <b>ndn-multi-forwarding-strategy-different-interest-76252-5s</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76252-5s.cpp) 
-      -  Exercise 1b: L2RateTracer  <b>ndn-multi-forwarding-strategy-different-interest-76252-5s</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/strategy-different-interest-76252-5s.txt)
+ -  <b>Exercise 1 : NDN Multi Forwarding Strategy Different Interest 76252-5s</b> 
+      -  Exercise 1a: <b>Configuration </b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76252-5s.cpp) 
+      -  Exercise 1b: <b>L2RateTracer</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/strategy-different-interest-76252-5s.txt)
 
--  <b>Exercise 2 : </b>ndn-multi-forwarding-strategy-different-interest-76272-5s
-      -  Exercise 2a: Configuration <b>ndn-multi-forwarding-strategy-different-interest-76272-5s</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76272-5s.cpp)
-      -  Exercise 2b: L2RateTracer <b>ndn-multi-forwarding-strategy-different-interest-76272-5s</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/strategy-different-interest-76272-5s.txt)
+-  <b>Exercise 2 : NDN Multi Forwarding Strategy Different Interest 76272-5s</b>
+      -  Exercise 2a: <b>Configuration</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76272-5s.cpp)
+      -  Exercise 2b: <b>L2RateTracer </b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/strategy-different-interest-76272-5s.txt)
 
--  <b>Exercise 3 : </b>ndn-multi-forwarding-strategy-different-interest-76573-5s
-   -  Exercise 3a: Configuration <b>ndn-multi-forwarding-strategy-different-interest-76573-5s </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76573-5s.cpp)
-   -  Exercise 3b:  L2RateTracer <b>ndn-multi-forwarding-strategy-different-interest-76573-5s </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/strategy-different-interest-76573-5s.txt)
+-  <b>Exercise 3 : NDN Multi Forwarding Strategy Different Interest 76573-5s</b>
+   -  Exercise 3a: <b>Configuration </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76573-5s.cpp)
+   -  Exercise 3b:  <b>L2RateTracer </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/strategy-different-interest-76573-5s.txt)
 
--  <b>Exercise 4 : </b>ndn-multi-forwarding-strategy-inherent-per-prefix-1000 Interest
+-  <b>Exercise 4 : NDN Multi Forwarding Strategy Inherent per-prefix 1000 Interest</b>
    -  Exercise 4a: Configuration <b>ndn-multi-forwarding-strategy-inherent-per-prefix-1000 Interest</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-1000.cpp)
    -  Exercise 4b: L2RateTracer <b>ndn-multi-forwarding-strategy-inherent-per-prefix-1000 Interest</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/different-strategy-bestroute-5s.txt)
 
