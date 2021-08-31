@@ -12,7 +12,8 @@
    - Exercise 2: <b>Simulation Simple 6 Node </b>[[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/Simulation-Simple-6node.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/simulation-simple-6node.py) | [[Output Raw File]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/LOG_Simple2.txt?raw=true)
    
    
-    <b>3.Create Secenario NDN-Inherent Topology </b>
+  <b>3.Create Secenario NDN-Inherent Topology </b>
+  
   - <b>Map Indonesia Inheren</b>[[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/map_indo.png)
   - Sourcecode <b>ndn-indonesia-inheren.cc</b>[[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/ndn-indonesia-inheren.cc)
   - Sourcecode <b>ndn-indonesia-inheren xml</b>[[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/ndn-indonesia-inheren.xml)
