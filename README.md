@@ -1,5 +1,5 @@
-## NS-3 based Named Data Networking (NDN) simulator
-## ndnSIM: simulation of NDN, ICN, Information-Centric Networking
+## NS-3 based Named Data Networking (NDN) simulator - ndnSIM: simulation of NDN, ICN, Information-Centric Networking
+***
 
 <b>Tabel Of Content</b>
 
