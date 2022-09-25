@@ -2,87 +2,85 @@ router
 #-----------------------------------------------------------------------------|
 # node  		comment	(y)latitude	(x)longitude
 #-----------------------------------------------------------------------------|
-UIN-ACEH		NA	5.578941310181898	95.3679344325354
-UIN-MEDAN		NA	3.605051726697462	98.72086589445396		 		  
-UIN-RIAU   		NA	0.46679946862858623	101.35781741349751	
-UIN-PADANG		NA	-0.9299925846994322	100.38656544048975
-UIN-BENGKULU		NA	-3.8339092910740615	102.32857023200688
-UIN-PALEMBANG		NA	-2.963592374529714	104.74788140981727
-UIN-LAMPUNG		NA	-5.380853909634476	105.30429395401441		 
-UIN-JAMBI		NA	-5.380853909634476	105.30429395401441
-UIN-BATUSANGKAR		NA	-0.45970842984846655	100.57350118281671
-UIN-BUKTI TINGGI	NA	-0.32170671242348153	100.39786069815818
-UIN-PADANG SIDEMPUAN	NA	1.3486837973613321	99.29550366562044	 	 
-
-UIN-BANTEN		NA	-6.121174315912168	106.17361646751516		
-UIN-JAKARTA		NA	6.3066928		106.756146
-UIN-BANDUNG   		NA	-6.932239975657081	107.71593820306073	 	          
-UIN-YOGYAKARTA		NA	-7.784592555106663	110.39428379452058
-UIN-SEMARANG		NA	-6.991705645345559	110.34880424114296
-UIN-TULUNG AGUNG	NA	-8.078018390003553	111.9285557558924
-UIN-JEMBER		NA	-8.194564169741565	113.65681400986753				 
-UIN-SURAKARTA		NA	-7.55851136036681	110.73464843869554
-UIN-PURWOKERTO		NA	-7.410331049362968	109.23142665588438	
-UIN-SALATIGA		NA	-7.308809134196114	110.47842628774106
-UIN-PEKALONGAN		NA	-6.866935502021828	109.67772711539784	 	 		
-UIN-MALANG		NA	-7.95008116455941	112.60749936663903	 
-UIN-SURABAYA		NA	7.322106526499362	112.73419745218604
-
-
-UIN-MAKASAR	  	NA	-5.205531050776532	119.4975883172296	 
-UIN-MATARAM		NA	-8.582164685016883	116.0948352442539	 	
-UIN-BANJARMASIN		NA	-3.3320062729161988	114.61711594235254
-UIN-PALU		NA	-0.8853073758034011	119.84584126747649	 	 	 	 
-UIN-SAMARINDA		NA	-0.566005905023		117.1093649656264	 
-
-
-
-
-  
+uin-aceh	NA	5.578941310181898	95.3679344325354
+uin-medan	NA	3.605051726697462	98.72086589445396		  
+uin-riau	NA	0.46679946862858623	101.35781741349751	
+uin-padang	NA	-0.9299925846994322	100.38656544048975
+uin-bengkulu	NA	-3.8339092910740615	102.32857023200688
+uin-palembang	NA	-2.963592374529714	104.74788140981727
+uin-lampung	NA	-5.380757775610293	105.3042832262674
+uin-jambi	NA	-1.6123571349629406	103.57613170664963
+uin-bsangkar	NA	-0.45970842984846655	100.57350118281671
+uin-btinggi	NA	-0.32170671242348153	100.39786069815818
+uin-psidempuan	NA	1.3486837973613321	99.29550366562044	 
+uin-banten	NA	-6.121174315912168	106.17361646751516		
+uin-jakarta	NA	-6.30629028936123	106.7545181551101
+uin-bandung	NA	-6.932239975657081	107.71593820306073	          
+uin-yogyakarta	NA	-7.784592555106663	110.39428379452058
+uin-semarang	NA	-6.991705645345559	110.34880424114296
+uin-tagung	NA	-8.078018390003553	111.9285557558924
+uin-jember	NA	-8.194564169741565	113.65681400986753				 
+uin-surakarta	NA	-7.55851136036681	110.73464843869554
+uin-purwokerto	NA	-7.410331049362968	109.23142665588438	
+uin-salatiga	NA	-7.308809134196114	110.47842628774106
+uin-pekalongan	NA	-6.866935502021828	109.67772711539784	
+uin-malang	NA	-7.95008116455941	112.60749936663903	 
+uin-surabaya	NA	-7.3221278091933035	112.73468025086657
+uin-makasar	NA	-5.205531050776532	119.4975883172296	 
+uin-mataram	NA	-8.582164685016883	116.0948352442539	
+uin-banjarm	NA	-3.3320062729161988	114.61711594235254
+uin-palu	NA	-0.8853073758034011	119.84584126747649	 
+uin-samarinda	NA	-0.566005905023	117.1093649656264	 
 		 	
 #-----------------------------------------------------------------------------|
-
 # link section defines point-to-point links between nodes and characteristics of these links
 
 link
-
 #-----------------------------------------------------------------------------|
 # srcNode   		dstNode     	bandwidth	metric  delay   queue
 #-----------------------------------------------------------------------------|
-UIN-ACEH		UIN-MEDAN	20Mbps	1	10ms	20				
-UIN-MEDAN		UIN-RIAU	20Mbps	1	10ms	20
-UIN-PADANG SIDEMPUAN	UIN-MEDAN	20Mbps	1	10ms	20		 		  
-UIN-RIAU   		UIN-PADANG	20Mbps	1	10ms	20			
-UIN-PADANG		UIN-JAMBI	20Mbps	1	10ms	20	
-UIN-JAMBI		UIN-PALEMBANG	20Mbps	1	10ms	20		
-UIN-BATUSANGKAR		UIN-PADANG	20Mbps	1	10ms	20
-UIN-BUKTI TINGGI	UIN-BATUSANGKAR	20Mbps	1	10ms	20	
-
+uin-aceh	uin-medan	155Mbps	1	10ms	20	
+uin-aceh	uin-psidempuan	155Mbps	1	10ms	20							
+uin-medan	uin-riau	155Mbps	1	10ms	20
+uin-psidempuan	uin-medan	155Mbps	1	10ms	20		  
+uin-riau	uin-btinggi	155Mbps	1	10ms	20			
+uin-jambi	uin-palembang	155Mbps	1	10ms	20		
+uin-bsangkar	uin-padang	155Mbps	1	10ms	20
+uin-btinggi	uin-bsangkar	155Mbps	1	10ms	20	
+uin-btinggi	uin-psidempuan	155Mbps	1	10ms	20	
 #-----------------------------------------------------------------------------|
-UIN-BENGKULU		UIN-PALEMBANG	20Mbps	1	10ms	20
-UIN-PALEMBANG		UIN-JAMBI	20Mbps	1	10ms	20		
-UIN-PALEMBANG		UIN-LAMPUNG	20Mbps	1	10ms	20
-UIN-LAMPUNG		UIN-BANTEN	20Mbps	1	10ms	20		 
-
+uin-bengkulu	uin-palembang	155Mbps	1	10ms	20
+uin-bengkulu	uin-padang	155Mbps	1	10ms	20
+uin-palembang	uin-jambi	155Mbps	1	10ms	20
+uin-riau	uin-jambi	155Mbps	1	10ms	20				
+uin-palembang	uin-lampung	155Mbps	1	10ms	20
+uin-jambi	uin-padang	155Mbps	1	10ms	20
+uin-lampung	uin-banten	155Mbps	1	10ms	20	
+uin-lampung	uin-bengkulu	155Mbps	1	10ms	20		 	 
 #-----------------------------------------------------------------------------|		 	 
-UIN-BANTEN		UIN-JAKARTA	20Mbps	1	10ms	20
-UIN-JAKARTA		UIN-BANDUNG	20Mbps 	1	10ms	20	
-UIN-BANDUNG   		UIN-PEKALONGAN	20Mbps	1	10ms	20
-UIN-PEKALONGAN		UIN-SEMARANG	20Mbps	1	10ms	20
-UIN-SEMARANG		UIN-SALATIGA	20Mbps	1	10ms	20
-UIN-SALATIGA		UIN-YOGYAKARTA	20Mbps	1	10ms	20
-UIN-PURWOKERTO		UIN-PEKALONGAN	20Mbps	1	10ms	20
-UIN-PEKALONGAN		UIN-SALATIGA	20Mbps	1	10ms	20
-UIN-YOGYAKARTA		UIN-SURAKARTA	20Mbps	1	10ms	20	
-UIN-SURAKARTA		UIN-TAGUNG	20Mbps	1	10ms	20
-UIN-TULUNG AGUNG	UIN-MALANG	20Mbps	1	10ms	20
-UIN-MALANG		UIN-SURABAYA	20Mbps	1	10ms	20
-UIN-SURABAYA		UIN-JEMBER	20Mbps	1	10ms	20	
+uin-banten	uin-jakarta	155Mbps	1	10ms	20
+uin-jakarta	uin-bandung	155Mbps	1	10ms	20	
+uin-jakarta	uin-pekalongan	155Mbps	1	10ms	20	
+uin-bandung	uin-pekalongan	155Mbps	1	10ms	20
+uin-bandung	uin-purwokerto	155Mbps	1	10ms	20
+uin-pekalongan	uin-semarang	155Mbps	1	10ms	20
+uin-semarang	uin-salatiga	155Mbps	1	10ms	20
+uin-salatiga	uin-yogyakarta	155Mbps	1	10ms	20
+uin-purwokerto	uin-pekalongan	155Mbps	1	10ms	20
+uin-purwokerto	uin-yogyakarta	155Mbps	1	10ms	20
+uin-pekalongan	uin-salatiga	155Mbps	1	10ms	20
+uin-yogyakarta	uin-surakarta	155Mbps	1	10ms	20	
+uin-yogyakarta	uin-tagung	155Mbps	1	10ms	20	
+uin-surakarta	uin-tagung	155Mbps	1	10ms	20
+uin-tagung	uin-malang	155Mbps	1	10ms	20
+uin-malang	uin-jember	155Mbps	1	10ms	20	
 #-----------------------------------------------------------------------------|		 	 
-UIN-MATARAM		UIN-JEMBER	20Mbps	1	10ms	20
-UIN-MAKASAR	  	UIN-BANJARMASIN	20Mbps	1	10ms	20		 
-UIN-MAKASAR		UIN-PALU	20Mbps	1	10ms	20
-UIN-PALU		UIN-SAMARINDA	20Mbps	1	10ms	20				 	
-UIN-MAKASAR		UIN-SURABAYA	20Mbps	1	10ms	20
-	 
+uin-mataram	uin-jember	155Mbps	1	10ms	20
+uin-mataram	uin-makasar	155Mbps	1	10ms	20
+uin-makasar	uin-banjarm	155Mbps	1	10ms	20		 
+uin-makasar	uin-palu	155Mbps	1	10ms	20
+uin-palu	uin-samarinda	155Mbps	1	10ms	20				 	
+uin-surabaya	uin-malang	155Mbps	1	10ms	20	 
+uin-banjarm	uin-surabaya	155Mbps	1	10ms	20	
+uin-banjarm	uin-samarinda	155Mbps	1	10ms	20	  
 #-----------------------------------------------------------------------------|
