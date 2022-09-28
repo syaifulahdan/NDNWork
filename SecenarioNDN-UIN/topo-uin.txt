@@ -73,14 +73,14 @@ uin-yogyakarta	uin-surakarta	155Mbps	1	10ms	20
 uin-yogyakarta	uin-tagung	155Mbps	1	10ms	20	
 uin-surakarta	uin-tagung	155Mbps	1	10ms	20
 uin-tagung	uin-malang	155Mbps	1	10ms	20
-uin-malang	uin-jember	155Mbps	1	10ms	20	
+uin-malang	uin-jember	7Mbps	1	10ms	20	
 #-----------------------------------------------------------------------------|		 	 
 uin-mataram	uin-jember	155Mbps	1	10ms	20
 uin-mataram	uin-makasar	155Mbps	1	10ms	20
 uin-makasar	uin-banjarm	155Mbps	1	10ms	20		 
 uin-makasar	uin-palu	155Mbps	1	10ms	20
 uin-palu	uin-samarinda	155Mbps	1	10ms	20				 	
-uin-surabaya	uin-malang	155Mbps	1	10ms	20	 
+uin-surabaya	uin-malang	7Mbps	1	10ms	20	 
 uin-banjarm	uin-surabaya	155Mbps	1	10ms	20	
 uin-banjarm	uin-samarinda	155Mbps	1	10ms	20	  
 #-----------------------------------------------------------------------------|
